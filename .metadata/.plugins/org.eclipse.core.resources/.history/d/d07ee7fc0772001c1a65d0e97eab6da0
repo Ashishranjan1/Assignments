@@ -1,0 +1,18 @@
+
+public class fibonacci {
+
+	public static void main(String[] args) {
+		
+		int fibb[]=new int[20];
+		fibb[0]=1;
+		fibb[1]=1;
+	System.out.println("The first 20 Fibonacci numbers are :");
+	for(int i=2;i<=20;i++)
+	{
+		fibb[i]=fibb[i-1]+fibb[i-2];
+		System.out.print(fibb[i]);
+	}
+
+	}
+
+}
