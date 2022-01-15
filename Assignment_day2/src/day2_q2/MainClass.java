@@ -9,8 +9,7 @@ public class MainClass {
 		int opt;
 		Scanner scn = new Scanner(System.in);
 		while (true) {
-			System.out.print("\033[H\033[2J");  
-			System.out.flush(); 
+			
 			System.out.println("Enter “1”, to display the Books: Title – Author – ISBN - Quantity.\n"
 					+ "Enter “2”, to order new books.\n" + "Enter “3”, to sell books.\n"
 					+ "Enter “0”, to exit the system");
