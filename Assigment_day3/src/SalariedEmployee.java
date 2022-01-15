@@ -15,8 +15,6 @@ class SalariedEmployee extends Employee{
 		return weeklyRate;
 	}
 
-
-
 	public void setWeeklyRate(double weeklyRate) {
 		this.weeklyRate = weeklyRate;
 	}

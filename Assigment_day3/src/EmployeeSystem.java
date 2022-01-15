@@ -12,9 +12,9 @@ class EmployeeSystem {
          = new ArrayList<Employee>(3);
 		 
 		
-			SalariedEmployee e=new SalariedEmployee(1111,"shubham",5000.00,4);
-			HourlyEmployee h=new HourlyEmployee(2222,"raju",500.00,50);
-			CommissionEmployee c=new CommissionEmployee(3333,"harshit",5.0,10000);
+			SalariedEmployee e=new SalariedEmployee(1111,"ashish",5000.00,4);
+			HourlyEmployee h=new HourlyEmployee(2222,"aman",500.00,50);
+			CommissionEmployee c=new CommissionEmployee(3333,"rohit",5.0,10000);
 					
 	        emp.add(e);
 	        
