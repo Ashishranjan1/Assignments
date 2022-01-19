@@ -22,6 +22,10 @@ public class SavingAccount extends Account {
  }
  
 	
+	@Override
+public String toString() {
+	return "SavingAccount [interestRate=" + interestRate + "]";
+}
 	public static void main(String[] args) {
 	
 	}
