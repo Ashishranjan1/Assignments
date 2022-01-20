@@ -25,8 +25,7 @@ public class CurrentAccount extends Account {
 		this.minBalance = minBalance;
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
 	}
 
 }

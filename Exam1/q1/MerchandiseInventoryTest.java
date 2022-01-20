@@ -15,7 +15,7 @@ public class MerchandiseInventoryTest {
 	public static void main(String[] args) {
 	 List<Merchandise> merchandiseList=new ArrayList<Merchandise>();
 		
-	 try(BufferedReader reader = new BufferedReader(new FileReader(new File("C:\\Users\\ve00ym333\\Desktop\\input.dat")))){
+	 try(BufferedReader reader = new BufferedReader(new FileReader(("C:\\Users\\ve00ym333\\Desktop\\input.dat")))){
 			String line = null;
 			while((line=reader.readLine())!=null) {
 				String arr[]=line.split(" ");

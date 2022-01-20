@@ -6,6 +6,7 @@ public class Merchandise {
 private String itemCode;
 	private int quantity;
 	private double unitPrice;
+	
 	public String getItemCode() {
 		return itemCode;
 	}
