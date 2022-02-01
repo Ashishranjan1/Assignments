@@ -25,8 +25,22 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.awt.print.Book"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.bookstore.model.exceptions.BookNotFoundException"/>
+<fullyQualifiedTypeName name="com.bookstore.model.persistence.BookDao"/>
+<fullyQualifiedTypeName name="com.bookstore.model.persistence.BookDaoImpl"/>
+<fullyQualifiedTypeName name="com.bookstore.model.service.BookService"/>
 <fullyQualifiedTypeName name="com.bookstore.model.persistence.Book"/>
+<fullyQualifiedTypeName name="com.bookstore.model.exceptions.DataAccessException"/>
+<fullyQualifiedTypeName name="com.bookstore.model.service.BookServiceImpl"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.time.Month"/>
+<fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+<fullyQualifiedTypeName name="java.time.Period"/>
+<fullyQualifiedTypeName name="java.time.LocalTime"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
