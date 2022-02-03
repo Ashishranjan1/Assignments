@@ -66,8 +66,6 @@ class Student {
 		return "Student [id=" + id + ", name=" + name + ", marks=" + marks + "]";
 	}
 	
-
-	
  }
 public class q2 {
 	
